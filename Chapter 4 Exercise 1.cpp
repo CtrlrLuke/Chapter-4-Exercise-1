@@ -17,5 +17,7 @@ int main()
 	// display
 	cout << "\nSmaller number: " << min << endl;
 	cout << "Larger number: " << max << endl;
+
+	return 0;
 }
 
